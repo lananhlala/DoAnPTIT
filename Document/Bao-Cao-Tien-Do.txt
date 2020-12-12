@@ -1,0 +1,18 @@
+Danh sách các công việc đã thực hiện so với tuần
+trước:
+1. Chuẩn hóa lại dữ liệu, đưa các index cũ từ 
+rất lớn về nhỏ hơn -> giảm chiều dữ liệu
+2. Thực hiện mô hình tư vấn theo nội dung, thử
+nghiệm với linear model và đo được RSME trên 
+tập train và test
+3. Phát triển quyển đồ án 
+
+
+Khó khăn: 
+- Sắp xếp các ý trong quyển đồ án
+- Hiển thị phần gợi ý ra giao diện web
+
+
+Tuần tới: Tập trung thực hiện lọc cộng tác và 
+đo các kết quả. Tiếp tục phát triển quyển đồ án.
+Phát triển giao diện.
